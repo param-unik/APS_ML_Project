@@ -1,13 +1,8 @@
+pymongo==4.2.0
 pandas 
-notebook
 numpy
 scipy
 scikit-learn
 matplotlib
-pyYAML
-joblib
-types-PyYAML
-Flask
-Flask-Cors
-pymongo
--e .
+scipy 
+-e .  
